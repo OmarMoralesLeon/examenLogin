@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen Unidad 1</string>
+    <string name="bienvenido_al_sistema">Bienvenido al Sistema</string>
+    <string name="salir">Salir</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+</resources>
